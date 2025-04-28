@@ -9,11 +9,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Prerequisites</h2>
 
 - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
-
 - [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
-
-
-
+- [osTicket: Post-Installation Configuration](https://github.com/joshuaheck1/post-install-config)
 
 <h2>Environments and Technologies Used</h2>
 
