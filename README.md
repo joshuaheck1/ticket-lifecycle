@@ -14,10 +14,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Windows App (macOS)
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used</h2>
 
 - macOS Sequoia
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
