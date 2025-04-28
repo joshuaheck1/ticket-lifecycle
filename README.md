@@ -11,10 +11,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Windows App (macOS)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
+- macOS Sequoia
 - Windows 10</b> (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
