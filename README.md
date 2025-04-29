@@ -242,7 +242,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>- You have successfully created, worked, and resolved a Help Desk ticket within osTicket! </p>
 <br/>
 
+<h2>Conclusion</h2>
 
+<p>This concludes our project. We have successfully navigated through the life cycle of a Help Desk ticket within osTicket. I recommend taking the time to play around in osTicket by creating and working different tickets. Use your imagination and have fun being your own Help Desk! Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+</p>
+<br/>
 
 
 
