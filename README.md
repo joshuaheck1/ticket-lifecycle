@@ -67,16 +67,68 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   </tr>
 </table>
 <p>- Click Yes, Do it! </p>
-<p>- The Maintenance Department has successfully been deleted. We had our Agents log out / log back in to osTicket. They are reporting that the tickets are now visible and being routed to the correct Departments. That is a Win!😎 </p>
+<p>- The Maintenance Department has successfully been deleted. We had our Agents log out / log back in to osTicket. They are reporting that the tickets are now visible and being routed to the correct Departments. That is a Win! Now, we can get to creating and working tickets. 😎</p>
+<br/>
 
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL6" src="https://github.com/user-attachments/assets/6b35cc6e-519d-4ec3-9f75-20c3f655d173" />
+    </td>
+    <td>
+      <img width="1000" alt="TL7" src="https://github.com/user-attachments/assets/52233b24-a17c-47c3-a143-686a130ac711" />
+    </td>
+  </tr>
+</table>
+<p>- Open the Support Center. (User portal - http://localhost/osTicket) </p>
+<p>- Click "Open a New Ticket".</p>
+<p>- Enter the folllowing - Email Addtrress: karen@lognpacific.com | Full Name: Karen | Help Topic: Report a Problem.</p>
+<p>- Fill out Issue Summary as you see in Figure 7. Scroll down and click Create Ticket.</p>
 
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL8" src="https://github.com/user-attachments/assets/15281ad1-cbff-4c2b-8aeb-cc25c23a9acf" />
+    </td>
+    <td>
+      <img width="1000" alt=<"TL9" src="https://github.com/user-attachments/assets/73284ce1-d5dc-4285-a4ca-50c72a8c0f3f" />
+    </td>
+  </tr>
+</table>
 
-
+<p>- New create is successfully created.
+<p>- Now, log in to the Admin / Agent Portal as John Doe. Username: john_doe | Password: Password1 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="TL10" src="https://github.com/user-attachments/assets/49cabd55-cb06-48ba-9f64-3957da5a686a" />
 </p>
+
+<p>- Once logged in, click Tickets -> Open.</p>
+<p>- This will display all the open tickets. Locate the ticket we just created as Karen and open it.</p>
+<br/>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="750" alt="TL11" src="https://github.com/user-attachments/assets/cea365f7-922e-4e1a-bb9c-8d2edf2af42b" />
 </p>
-<br />
+
+<p>- 
+<p>- Most Users and/or Clients may not know SLAs, and correct Help Topics .</p>
+<p>- This will display all the open tickets. Locate the ticket we just created as Karen and open it.</p>
+<br/>
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL11" src="https://github.com/user-attachments/assets/80e2a47e-633c-4fdc-96d2-614a5ad52e08" />
+    </td>
+    <td>
+      <img width="1000" alt=<"TL9" src="https://github.com/user-attachments/assets/73284ce1-d5dc-4285-a4ca-50c72a8c0f3f" />
+    </td>
+  </tr>
+</table>
+
+<p>- New create is successfully created.
+<p>- Now, log in to the Admin / Agent Portal as John Doe. Username: john_doe | Password: Password1 </p>
