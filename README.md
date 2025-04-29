@@ -81,8 +81,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   </tr>
 </table>
 <p>- Open the Support Center. (User portal - http://localhost/osTicket) </p>
-<p>- Click "Open a New Ticket".</p>
-<p>- Enter the folllowing - Email Addtrress: karen@lognpacific.com | Full Name: Karen | Help Topic: Report a Problem.</p>
+<p>- Click "Open a New Ticket" and create the ticket as Karen.</p>
+<p>- Enter the folllowing - Email Address: karen@lognpacific.com | Full Name: Karen | Help Topic: Report a Problem.</p>
 <p>- Fill out Issue Summary as you see in Figure 7. Scroll down and click Create Ticket.</p>
 
 <table>
@@ -111,24 +111,64 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="750" alt="TL11" src="https://github.com/user-attachments/assets/cea365f7-922e-4e1a-bb9c-8d2edf2af42b" />
 </p>
 
-<p>- 
-<p>- Most Users and/or Clients may not know SLAs, and correct Help Topics .</p>
-<p>- This will display all the open tickets. Locate the ticket we just created as Karen and open it.</p>
+<p>- Take a minute to review the ticket details. Based off the issue stated by Karen, this seems like a serious problem. </p>
+<p>- In the real world, we would contact Karen via phone, email, or direct message to find out more. We'll pretend we spoke with Karen and confirmed the issue is serious. Next, we'll update the SLA, the Help Topic, and assign the ticket to the correct team.</p>
 <br/>
-
-
-
 
 <table>
   <tr>
     <td>
-      <img width="1000" alt="TL11" src="https://github.com/user-attachments/assets/80e2a47e-633c-4fdc-96d2-614a5ad52e08" />
+      <img width="1000" alt="TL13" src="https://github.com/user-attachments/assets/740f2a30-e8c8-479f-a9b3-cdfbd4b6ede4" />
     </td>
     <td>
-      <img width="1000" alt=<"TL9" src="https://github.com/user-attachments/assets/73284ce1-d5dc-4285-a4ca-50c72a8c0f3f" />
+      <img width="1000" alt=<<img width="745" alt="TL14" src="https://github.com/user-attachments/assets/95062ddf-923b-40e2-89ae-8c100c3d705d" />
     </td>
   </tr>
 </table>
 
-<p>- New create is successfully created.
-<p>- Now, log in to the Admin / Agent Portal as John Doe. Username: john_doe | Password: Password1 </p>
+<p>- Click "Deault SLA". In the pop-up, Select Sev-A and enter a comment as to why you are updtaing the SLA Plan. Click Update. See Figure 12</p>
+<p>- Next, click "Help Topic". Use the dropdown to select "Report a Problem / Business Critical Outage". Comment reason and click Update.</p>
+<p>- Making these changes will help our team process the ticket accordingly and effectively.</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL13" src="https://github.com/user-attachments/assets/740f2a30-e8c8-479f-a9b3-cdfbd4b6ede4" />
+    </td>
+    <td>
+      <img width="1000" alt=<<img width="745" alt="TL14" src="https://github.com/user-attachments/assets/95062ddf-923b-40e2-89ae-8c100c3d705d" />
+    </td>
+  </tr>
+</table>
+
+<p>- Now, click "Unassigned" and assign the ticket to Online Banking. Comment and click Assign.
+<p>- Review the changes we made and scroll down. </p>
+<br/>
+
+<p>
+<img width="750" alt="TL17" src="https://github.com/user-attachments/assets/a0b42e33-c48b-408c-80d5-15b3b64844f5" />
+</p>
+
+<p>- osTicket keeps a track record of all the changes in the Ticket Thread.</p> 
+<p>- This helps us track who did what with the ticket and keeps everyone updated. </p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL18" src="https://github.com/user-attachments/assets/f7b30731-f58a-453e-81dc-01454d65bfd0" />
+    </td>
+    <td>
+      <img width="1000" alt="TL19" src="https://github.com/user-attachments/assets/168d7688-6699-4601-b78a-daa715207d02" />
+    </td>
+  </tr>
+</table>
+
+<p>- Log John out and log in to the Agent Portal as Jane Doe. Username: jane_doe | Password: Password1</p>
+<p>- We will work and resolve this ticket as Jan Doe moving forward. </p>
+<p>- John assigned the ticket to Online Banking. Jane is part  </p>
+<br/>
+
+
+
