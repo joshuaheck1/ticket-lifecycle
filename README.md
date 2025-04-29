@@ -45,19 +45,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <table>
   <tr>
     <td>
-      <img width="1000" alt="PI19" src="https://github.com/user-attachments/assets/45b36bfc-d0ec-4683-96f2-8dfb095483f1" />
+      <img width="1000" alt="TL2" src="https://github.com/user-attachments/assets/d8c57ea8-dccc-4035-aa1f-a52999a76c45" />
     </td>
     <td>
-      <img width="1000" alt="PI20" src="https://github.com/user-attachments/assets/290cb12c-0d0a-49d2-8b35-c13d9a3a98d2" />
+      <img width="1000" alt="TL3" src="https://github.com/user-attachments/assets/c3158223-20fb-4fc7-a287-3298f01b23c2" />
     </td>
   </tr>
 </table>
-<p>- Under Access -> Primary Department, select SysAdmins. For Role/Permissions, select Supreme Admin. </p>
-<p>- Under Teams, select Online Banking and click Create.  </p>
+<p>- Upon further investigation and working with Osticket Support, we discovered that a recent update caused a bug with a preset Department within osTicket. The bug is causing the tickets to be sent to the Maintenance Department regardless of the configurations. We will delete this department to get operations back to normal while osTicket works on a patch. </p>
+<p>- From the Agent Panel, click -> Agents -> Departments. </p>
+<p>- Check the box by Manitenance -> click the More dropdown -> click Delete.</p>
 
-
-
-
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="TL4" src="https://github.com/user-attachments/assets/e520d2a9-1a31-4592-9ef8-1024d6406d63" />
+    </td>
+    <td>
+      <img width="1000" alt="TL5" src="https://github.com/user-attachments/assets/28aab28a-25e8-4176-8a90-96aa0430b7c0" />
+    </td>
+  </tr>
+</table>
+<p>- Click Yes, Do it! </p>
+<p>- The Maintenance Department has successfully been deleted. We had our Agents log out / log back in to osTicket. They are reporting that the tickets are now visible and being routed to the correct Departments. That is a Win!😎 </p>
 
 
 
