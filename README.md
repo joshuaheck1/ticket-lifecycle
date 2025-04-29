@@ -181,7 +181,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <table>
   <tr>
     <td>
-      <img width="900" alt="TL21" src="https://github.com/user-attachments/assets/55c991a0-5edc-46c3-a49d-8146eb9f8902" />
+      <img width="1000" alt="TL21" src="https://github.com/user-attachments/assets/55c991a0-5edc-46c3-a49d-8146eb9f8902" />
     </td>
     <td>
       <img width="1000" alt="TL22" src="https://github.com/user-attachments/assets/719982a0-e45a-4d58-b908-9a83014025bc" />
@@ -197,7 +197,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <table>
   <tr>
     <td>
-      <img width="900" alt="TL23" src="https://github.com/user-attachments/assets/58008400-3562-455d-aed2-f3c2050ea108" />
+      <img width="1000" alt="TL23" src="https://github.com/user-attachments/assets/58008400-3562-455d-aed2-f3c2050ea108" />
     </td>
     <td>
       <img width="1000" alt="TL24" src="https://github.com/user-attachments/assets/d883f2e7-d0ea-4646-aa38-6c10932b137b" />
@@ -206,14 +206,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </table>
 
 <p>- Next, we'll send an update to Karen concerning the ticket she submitted. Click Post Reply. See Figure 22</p>
-<p>- Now, lets notify Karen that we determined a cause for the issue, it has been addressed, and online banking is working again. </p>
+<p>- Now, lets notify Karen that we determined a cause for the issue, it has been addressed, and online banking is working again. See Figure 23 </p>
 <p>- Click Post.</p>
 <br/>
 
 <table>
   <tr>
     <td>
-      <img width="900" alt="TL25" src="https://github.com/user-attachments/assets/f3fe340b-626e-4254-9786-d3dca29c44ff" />
+      <img width="1000" alt="TL25" src="https://github.com/user-attachments/assets/f3fe340b-626e-4254-9786-d3dca29c44ff" />
     </td>
     <td>
       <img width="1000" alt="TL26" src="https://github.com/user-attachments/assets/a0722cec-a764-467f-a1e7-91549430cd2b" />
@@ -221,25 +221,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   </tr>
 </table>
 
-<p>- Next, we'll send an update to Karen concerning the ticket she submitted. Click Post Reply. See Figure 22</p>
-<p>- Now, lets notify Karen that we determined a cause for the issue, it has been addressed, and online banking is working again. </p>
-<p>- Click Post.</p>
+<p>- Figure 24 shows us how osTicket records Jane's respones in the Ticket Thread as well.</p>
+<p>- Now that the issue has been fixed and the end user has been updated, lets close out the ticket.  </p>
+<p>- Click Status and select Resolved.</p>
 <br/>
 
 <table>
   <tr>
     <td>
-      <img width="900" alt="TL23" src="https://github.com/user-attachments/assets/58008400-3562-455d-aed2-f3c2050ea108" />
+      <img width="900" alt="TL27" src="https://github.com/user-attachments/assets/ff775d52-483e-4c1d-949e-ce018893de56" />
     </td>
     <td>
-      <img width="1000" alt="TL24" src="https://github.com/user-attachments/assets/d883f2e7-d0ea-4646-aa38-6c10932b137b" />
+      <img width="1000" alt="TL28" src="https://github.com/user-attachments/assets/18a9c367-3e2a-4531-9249-708f78f33431" />
     </td>
   </tr>
 </table>
 
-<p>- Next, we'll send an update to Karen concerning the ticket she submitted. Click Post Reply. See Figure 22</p>
-<p>- Now, lets notify Karen that we determined a cause for the issue, it has been addressed, and online banking is working again. </p>
-<p>- Click Post.</p>
+<p>- In the pop-up, change the Status to Resolved. Comment the change and click Close.</p>
+<p>- Ticket #206084 has been resolved. </p> 
+<p>- You have successfully created, worked, and resolved a Help Desk ticket within osTicket! </p>
 <br/>
 
 
