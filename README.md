@@ -157,7 +157,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <table>
   <tr>
     <td>
-      <img width="1000" alt="TL18" src="https://github.com/user-attachments/assets/f7b30731-f58a-453e-81dc-01454d65bfd0" />
+      <img width="900" alt="TL18" src="https://github.com/user-attachments/assets/f7b30731-f58a-453e-81dc-01454d65bfd0" />
     </td>
     <td>
       <img width="1000" alt="TL19" src="https://github.com/user-attachments/assets/168d7688-6699-4601-b78a-daa715207d02" />
@@ -167,8 +167,85 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>- Log John out and log in to the Agent Portal as Jane Doe. Username: jane_doe | Password: Password1</p>
 <p>- We will work and resolve this ticket as Jan Doe moving forward. </p>
-<p>- John assigned the ticket to Online Banking. Jane is part  </p>
+<p>- John assigned the ticket to Online Banking and Jane is on that team. Open the ticket.</p>
 <br/>
+
+<p>
+<img width="750" alt="TL20" src="https://github.com/user-attachments/assets/8e5c64d8-6f0f-459e-8da7-5c7a36a6183a" />
+</p>
+
+<p>- Assign the ticket to Jane to reflect which Agent will be working the ticket. Pretend that Online Banking has more then one Agent.</p> 
+<p>- Having the ticket assigned to a specific Agent will help with tracking. </p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="900" alt="TL21" src="https://github.com/user-attachments/assets/55c991a0-5edc-46c3-a49d-8146eb9f8902" />
+    </td>
+    <td>
+      <img width="1000" alt="TL22" src="https://github.com/user-attachments/assets/719982a0-e45a-4d58-b908-9a83014025bc" />
+    </td>
+  </tr>
+</table>
+
+<p>- Select "Jane Doe" as Assignee and enter comment of the change. Click Assign.</p>
+<p>- Now, look at the "Assigned To" section of the ticket.</p>
+<p>- It shows the ticket is assigned to Jane Doe of the Online Banking team.</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="900" alt="TL23" src="https://github.com/user-attachments/assets/58008400-3562-455d-aed2-f3c2050ea108" />
+    </td>
+    <td>
+      <img width="1000" alt="TL24" src="https://github.com/user-attachments/assets/d883f2e7-d0ea-4646-aa38-6c10932b137b" />
+    </td>
+  </tr>
+</table>
+
+<p>- Next, we'll send an update to Karen concerning the ticket she submitted. Click Post Reply. See Figure 22</p>
+<p>- Now, lets notify Karen that we determined a cause for the issue, it has been addressed, and online banking is working again. </p>
+<p>- Click Post.</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="900" alt="TL25" src="https://github.com/user-attachments/assets/f3fe340b-626e-4254-9786-d3dca29c44ff" />
+    </td>
+    <td>
+      <img width="1000" alt="TL26" src="https://github.com/user-attachments/assets/a0722cec-a764-467f-a1e7-91549430cd2b" />
+    </td>
+  </tr>
+</table>
+
+<p>- Next, we'll send an update to Karen concerning the ticket she submitted. Click Post Reply. See Figure 22</p>
+<p>- Now, lets notify Karen that we determined a cause for the issue, it has been addressed, and online banking is working again. </p>
+<p>- Click Post.</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="900" alt="TL23" src="https://github.com/user-attachments/assets/58008400-3562-455d-aed2-f3c2050ea108" />
+    </td>
+    <td>
+      <img width="1000" alt="TL24" src="https://github.com/user-attachments/assets/d883f2e7-d0ea-4646-aa38-6c10932b137b" />
+    </td>
+  </tr>
+</table>
+
+<p>- Next, we'll send an update to Karen concerning the ticket she submitted. Click Post Reply. See Figure 22</p>
+<p>- Now, lets notify Karen that we determined a cause for the issue, it has been addressed, and online banking is working again. </p>
+<p>- Click Post.</p>
+<br/>
+
+
+
+
+
 
 
 
